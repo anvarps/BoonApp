@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7YW7o9phlMsl/32+qHAA2vRRsgJBrk+Cj6jQII1j82o=",
+  "Source": "BoonApp.WebApi",
+  "BasePath": "_content/BoonApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
