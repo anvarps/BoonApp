@@ -5,7 +5,22 @@
       "ProjectGuid": "2b51f14d-45aa-4445-ae3f-654d0d353050",
       "DisplayName": "BoonApp",
       "ColorIndex": 0
+    },
+    "2ea8a19a-a80a-430c-a573-302dc487bad9": {
+      "ProjectGuid": "2ea8a19a-a80a-430c-a573-302dc487bad9",
+      "DisplayName": "BoonApp.Data",
+      "ColorIndex": 1
+    },
+    "4a9fd194-b7ce-4713-ae22-78baf010c776": {
+      "ProjectGuid": "4a9fd194-b7ce-4713-ae22-78baf010c776",
+      "DisplayName": "BoonApp.Domain",
+      "ColorIndex": 2
+    },
+    "e5289fa5-1b63-485c-95da-c3f275d747f3": {
+      "ProjectGuid": "e5289fa5-1b63-485c-95da-c3f275d747f3",
+      "DisplayName": "BoonApp.Application",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
